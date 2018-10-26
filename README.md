@@ -10,5 +10,5 @@
 ![](/img/java5.png)
 
 
-3.creem el arxiu mymanifest.mf
+3. creem el arxiu mymanifest.mf
 ![](/img/java6.png)
