@@ -15,3 +15,8 @@
 3. creem el arxiu mymanifest.mf
 ---
 ![](/img/java6.png)
+
+
+4. Després haurem de crear el fitxer .jar fent servir la següent comanda
+---
+![](/img/java7.png)
