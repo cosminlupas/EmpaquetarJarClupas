@@ -11,4 +11,5 @@
 
 
 3. creem el arxiu mymanifest.mf
+&nbsp;
 ![](/img/java6.png)
