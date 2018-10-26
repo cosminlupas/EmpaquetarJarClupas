@@ -20,3 +20,8 @@
 4. Després haurem de crear el fitxer .jar fent servir la següent comanda
 ---
 ![](/img/java7.png)
+
+
+5. Per ultim executem el fitxer .jar amb la següent comanda
+---
+![](/img/java8.png)
